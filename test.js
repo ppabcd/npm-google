@@ -1,8 +1,7 @@
 const google = require('./');
 
-google('Hello World',(err,resp)=>{
+google('Hello',(err,resp)=>{
     if(err){
         console.log(err);
     }
-    console.log(resp);
 });
