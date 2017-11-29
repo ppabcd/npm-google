@@ -14,3 +14,9 @@ You just write this command for testing example.
 ``` bash
 node test.js    
 ```
+ 
+# How to use
+You can see in test.js
+1 . Create constant with name and require module.
+2 . Get function name const with first parameter is messages dan second parameters is response and error.
+3 . Create your code in function you create with response from module.
