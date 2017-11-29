@@ -10,7 +10,7 @@ You  can get this modules using require('google');
  
 I  create one exampe in test.js
  
-You just write this code for testing example.
+You just write this command for testing example.
 ``` bash
 node test.js    
 ```
