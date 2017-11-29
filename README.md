@@ -18,5 +18,5 @@ node test.js
 # How to use
 You can see in test.js
 1. Create constant with name and require module.
-1 . Get function name const with first parameter is messages dan second parameters is response and error.
+1. Get function name const with first parameter is messages dan second parameters is response and error.
 1. Create your code in function you create with response from module.
