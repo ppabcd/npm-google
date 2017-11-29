@@ -15,7 +15,7 @@ You just write this command for testing example.
 node test.js    
 ```
  
-## How to use
+## How to use
 
 You can see in test.js
 1. Create constant with name and require module.
